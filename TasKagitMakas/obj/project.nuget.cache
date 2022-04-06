@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BP/p5GLJGNjiJhVtxDEzao2rRu3ay0PDQzfwnM7mfytS5F2mBMrf6tBgHAJbLunWnyYf9uqW9OAhwkIsvesjvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\c#form örnekleri\\TasKagitMakas\\TasKagitMakas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
